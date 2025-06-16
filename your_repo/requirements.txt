@@ -1,8 +1,7 @@
+pip==24.0
 streamlit
 torch
 Pillow
-numpy
+numpy<2.0
 opencv-python-headless
-matplotlib
-PyYAML
 git+https://github.com/ultralytics/yolov5.git
